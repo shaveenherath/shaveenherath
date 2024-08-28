@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-**Hello!** I'm **Shaveen Herath** 👋, an undergraduate student specializing in **Electronic and Telecommunication Engineering** at the **University of Moratuwa**. With a CGPA of 3.87/4.00. My journey is driven by curiosity and a desire to contribute to cutting-edge technology.
+**Hello!** I'm **Shaveen Herath** 👋, an undergraduate student specializing in **Electronic and Telecommunication Engineering** at the **University of Moratuwa**. My journey is driven by curiosity and a desire to contribute to cutting-edge technology.
 
 
 
