@@ -2,7 +2,7 @@
 
 **Hello!** I'm **Shaveen Herath** 👋, an undergraduate student specializing in **Electronic and Telecommunication Engineering** at the **University of Moratuwa**. With a CGPA of 3.87/4.00. My journey is driven by curiosity and a desire to contribute to cutting-edge technology.
 
-![Header](https://example.com/your-header-image) <!-- Replace with your own image link -->
+
 
 ## 🌟 About Me
 
@@ -50,14 +50,6 @@ Created a versatile function generator to produce sinusoidal, PWM, sawtooth, and
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaveen-herath-45340824b/)
-
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaveenherath&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaveenherath&layout=compact&theme=radical)
-
 
 
 _Thanks for stopping by! I'm always open to collaboration and learning. Feel free to explore my repositories or reach out to me._ 😄
