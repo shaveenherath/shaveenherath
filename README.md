@@ -15,7 +15,7 @@
 ### 🚧 Obstacle Avoidance System for Warehouse AMR and AGV
 Developed a robust system using ATMEL 328P-AU microcontroller, integrating ultrasonic sensors, current sensors, and encoders with PID control. Enhanced navigation efficiency and safety for autonomous mobile robots.
 
-[![Project Link](https://img.shields.io/badge/Repo-Visit%20Project-brightgreen)](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV)
+[![Project Link](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV)](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV)
 
 ### 👤 Human Counter with Bluetooth Connectivity
 Implemented a system using ATmega 328P to count people entering/exiting a room, displaying available seats in real-time via a Bluetooth-connected app.
