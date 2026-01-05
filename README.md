@@ -1,55 +1,70 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-**Hello!** I'm **Shaveen Herath** 👋, an undergraduate student specializing in **Electronic and Telecommunication Engineering** at the **University of Moratuwa**. My journey is driven by curiosity and a desire to contribute to cutting-edge technology.
+**Hello!** I'm **Shaveen Herath** 👋, an undergraduate student specializing in **Electronic and Telecommunication Engineering** at the **University of Moratuwa**. My journey is driven by curiosity and a desire to contribute to cutting-edge technology, with a specific focus on **Artificial Intelligence**, **Computer Vision**, and **Full-Stack Development**.
 
-
+---
 
 ## 🌟 About Me
 
-- 📚 **B.Sc. Honors in Engineering** - Department of Electronic and Telecommunication Engineering, University of Moratuwa.
-- 🎓 School - Royal College, Colombo 7 
-- 🔧 Strong in **Python**, **C++**, **AVR**, and **PCB** & **Enclosure designing**.
+- 📚 **B.Sc. Honors in Engineering** - Department of Electronic and Telecommunication Engineering, University of Moratuwa (CGPA 3.81/4.00) - 🏆 **Achievements:** Dean's List (4 times) - 🎓 **School:** Royal College, Colombo 7 - 💼 **Experience:** Former **AI Engineer Intern** at **Pekoe (Pvt) Ltd**, working on end-to-end ML pipelines and RAG systems. - 🔭 **Research Interests:** Self-Supervised Learning, Multimodal AI (EEG + Speech), and Computer Vision. ---
 
-## 🛠 My Projects
+## 🛠 Tech Stack
 
-### 🚧 Obstacle Avoidance System for Warehouse AMR and AGV
-Developed a robust system using ATMEL 328P-AU microcontroller, integrating ultrasonic sensors, current sensors, and encoders with PID control. Enhanced navigation efficiency and safety for autonomous mobile robots.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Project Link](https://img.shields.io/badge/Repo-Visit%20Project-brightgreen)](https://github.com/shaveenherath/Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-)
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 👤 Human Counter with Bluetooth Connectivity
-Implemented a system using ATmega 328P to count people entering/exiting a room, displaying available seats in real-time via a Bluetooth-connected app.
+### Web Development & Databases
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
-[![Project Link](https://img.shields.io/badge/Repo-Visit%20Project-brightgreen)](https://github.com/shaveenherath/Human-Counter-)
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📡 Analog Radio Receiver
-Explored analog principles by designing a radio receiver, delving into amplifiers, oscillators, and detectors. Combined theoretical analysis with hands-on experimentation.
+---
 
-[![Project Link](https://img.shields.io/badge/Repo-Visit%20Project-brightgreen)](https://github.com/shaveenherath/Analog_Radio)
+## 🚀 Featured Projects
 
-### 🎛 Function Generator Using Analog Components
-Created a versatile function generator to produce sinusoidal, PWM, sawtooth, and triangle waveforms. This project highlights my analog circuit design skills.
+### 🤖 Multi-Modal RAG Chatbot
+*Designed and deployed an end-to-end Retrieval-Augmented Generation (RAG) system.*
+- **Features:** Ingests PDFs, builds a vector database, and answers queries using LLMs.
+- **Stack:** FastAPI, OpenAI API, Pinecone, React + Vite, Docker, AWS (ECR, EC2).
+### ⚡ Transformer Management System
+*Full-stack platform for power transformer management.*
+- **Features:** Inspection workflows, thermal image comparison, anomaly detection, and digital maintenance records.
+- **Stack:** React, Java Spring Boot, REST APIs, Modular AI-based image analysis.
+### 🧠 Fusion of Speech & EEG for Target Speaker Extraction (FYP)
+*Ongoing Final Year Research Project.*
+- **Focus:** Exploring multimodal fusion of EEG and speech signals to improve target speaker extraction beyond SOTA methods.
+### 🐘 Elephant Tracking System
+*Wildlife monitoring solution.*
+- **Features:** Automated elephant detection and tracking pipeline using infrared video feeds to help prevent human-elephant conflict.
+- **Stack:** YOLOv8, Infrared Video Processing.
+### 🔬 I-JEPA Reimplementation
+*Self-Supervised Learning Research.*
+- **Focus:** Reimplemented the I-JEPA framework using PyTorch and HuggingFace; evaluated representations on image classification and depth prediction tasks.
+---
 
-[![Project Link](https://img.shields.io/badge/Repo-Visit%20Project-brightgreen)](https://github.com/OhmFusion/Analog-Function-Generator)
+## 📜 Certifications
 
-## 🧠 Skills
+- **Machine Learning for Wireless Communication** - University of Moratuwa - **Supervised Machine Learning & Advanced Learning Algorithms** - DeepLearning.AI - **Machine Learning with Python** - IBM - **High Performance Software Development using C++** - LSEG ---
 
-- **Programming**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![AVR](https://img.shields.io/badge/-AVR-FF5733)
-- **ML & Computer Vision**: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-- **Tools**: ![Altium](https://img.shields.io/badge/-Altium-0077C0) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF3C00)
-- **Embedded Networks & IoT**: MQTT, Node-RED
-- **Soft Skills**: Communication, Technical Writing, Leadership
+## 📫 Connect with Me
 
-
-## 📚 Certifications
-
-- [Machine Learning with Python – IBM](https://coursera.org/share/756dd802ec300fc1cf1bdca014108d56)
-- [Supervised Machine Learning – Deep Learning.AI](https://coursera.org/share/7e17501ee455843197f62fd33591008f)
-- [Advanced Learning Algorithms – DeepLearning.AI](https://coursera.org/share/ec35fe67e3c5b2dcb9e92e4d2c0bb4fc)
-
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaveen-herath-45340824b/)
-
-
-_Thanks for stopping by! I'm always open to collaboration and learning. Feel free to explore my repositories or reach out to me._ 😄
+<p align="left">
+<a href="https://linkedin.com/in/shaveen-herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaveen-herath" height="30" width="40" /></a>
+<a href="mailto:herathshaveen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="herathshaveen@gmail.com" height="30" width="40" /></a>
+</p>
