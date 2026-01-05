@@ -18,7 +18,7 @@
 
 - 💼 **Experience**
   <br>Former **AI Engineer Intern** at **Pekoe (Pvt) Ltd**
-  <br>*Focus: End-to-end ML pipelines and RAG systems*
+  <br>*Focus: End-to-end ML pipelines*
 
 - 🔭 **Research Interests**
   <br>Self-Supervised Learning, Multimodal AI (EEG + Speech), and Computer Vision
