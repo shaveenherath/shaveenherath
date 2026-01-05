@@ -6,7 +6,22 @@
 
 ## 🌟 About Me
 
-- 📚 **B.Sc. Honors in Engineering** - Department of Electronic and Telecommunication Engineering, University of Moratuwa (CGPA 3.81/4.00) - 🏆 **Achievements:** Dean's List (4 times) - 🎓 **School:** Royal College, Colombo 7 - 💼 **Experience:** Former **AI Engineer Intern** at **Pekoe (Pvt) Ltd**, working on end-to-end ML pipelines and RAG systems. - 🔭 **Research Interests:** Self-Supervised Learning, Multimodal AI (EEG + Speech), and Computer Vision. ---
+- 📚 **B.Sc. Honors in Engineering**
+  <br>Department of Electronic and Telecommunication Engineering, University of Moratuwa
+  <br>**CGPA:** 3.82/4.00
+
+- 🏆 **Achievements**
+  <br>Dean's List (5 times)
+
+- 🎓 **School**
+  <br>Royal College, Colombo 7
+
+- 💼 **Experience**
+  <br>Former **AI Engineer Intern** at **Pekoe (Pvt) Ltd**
+  <br>*Focus: End-to-end ML pipelines and RAG systems*
+
+- 🔭 **Research Interests**
+  <br>Self-Supervised Learning, Multimodal AI (EEG + Speech), and Computer Vision
 
 ## 🛠 Tech Stack
 
